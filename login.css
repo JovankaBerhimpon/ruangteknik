@@ -17,7 +17,7 @@
     min-height: 100vh;
 }
 .side-image{
-    background-image: url("foto/TEKNIK.jpg");
+    background-image: url("img/TEKNIK.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
